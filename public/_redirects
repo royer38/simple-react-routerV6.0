@@ -1,0 +1,3 @@
+/ * /index.html 200
+
+//esto nos sirve para cuando montemos la app en un servidor, para que redireccione todo al index
